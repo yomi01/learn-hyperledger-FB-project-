@@ -1,2 +1,4 @@
 # learn-hyperledger-FB-project-
-This Repo contains sample Chaincode
+
+
+This repo contains files, scripts and code for a basic Hyperledger Fabric network Chaincode
